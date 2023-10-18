@@ -89,7 +89,7 @@ typed-ast==1.5.4
 typing_extensions==4.5.0
 tzdata==2022.2
 unicodecsv==0.14.1
-urllib3==1.26.6
+urllib3==1.26.18
 vine==5.0.0
 virtualenv==20.20.0
 watchtower==3.0.0
